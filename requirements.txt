@@ -1,7 +1,7 @@
+keras
+matplotlib
 numpy
 pandas
-matplotlib
 plotly
 scikit-learn
-keras
 tensorflow
